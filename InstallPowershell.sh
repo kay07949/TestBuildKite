@@ -1,1 +1,1 @@
-echo "Hello1"
+sudo apt install curl
